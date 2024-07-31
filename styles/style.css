@@ -104,11 +104,11 @@ body{
     font-weight: 400;
 }
 
-@media (max-width: 100px) {
+@media (max-width: 1200px) {
     
 }
         .cabecalho {
-            padding: 5%;
+            padding: 10%;
 
         }
 
@@ -119,5 +119,5 @@ body{
         }
 
         .apresentacao__conteudo {
-            width: auto;
+            width: 100px;
         }
